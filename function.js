@@ -122,8 +122,8 @@ function createUser(Name,age,email,add){
      user1.age=age,
      user1.Name=email,
      user1.age=add,
-     user1.about=function(){
+     user1.about=function()
+     {
           return this.
-     }
-     
+     } 
 }
